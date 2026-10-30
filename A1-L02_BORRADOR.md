@@ -11,9 +11,9 @@
 > - **Karta gęstości:** nowe formy gramatyczne — 0 (formuły jako całości). Powroty do wcześniejszego materiału: `hola`, `gracias`, polecenia `Escucha`/`Repite`/`Escribe`, wymowa *c* [θ] w *gracias* (zob. `A1-L01`, 2.4). Elementy według funkcji:
 >   - **aktywne (produkcja):** `hola`, `buenos días`, `buenas tardes`, `buenas noches`, `adiós`, `hasta luego`, `hasta mañana`, `¿Qué tal?`, `¿Cómo estás?`, `¿Y tú?`, `muy bien`, `bien`, `regular`, `mal`, `gracias`, `de nada`, `por favor`, `perdón`, `tú`;
 >   - **gotowe formuły (użycie bez analizy):** `¿Cómo está usted?`, `¿Y usted?`, `¿Cómo estáis?`, `¿Y vosotros?`, `Perdón, no entiendo.`, `¿Puedes repetir, por favor?`, `¿Puede repetir, por favor?`, `Más despacio, por favor.`, `usted`;
->   - **rozpoznawane:** polecenia `Lee`, `Elige`; `hasta pronto`, `lo siento`, `señor`/`señora`, `ustedes`, `¿Cómo están ustedes?`, `vosotros`/`vosotras`, `Hola a todos`;
+>   - **rozpoznawane:** polecenia `Lee`, `Elige`; `hasta pronto`, `lo siento`, `señor`/`señora`, `señores`, `ustedes`, `¿Cómo están ustedes?`, `vosotros`/`vosotras`, `Hola a todos`;
 >   - **zależności w przód (oznaczone jako gotowa formuła):** `estás`/`está`/`estáis` w pytaniach o samopoczucie (czasownik *estar*: `A1-L09`); `puedes`/`puede` w prośbie o powtórzenie (*poder*: `A1-L12`); `no entiendo` (wraca w `A1-L13`); *usted* czynnie w stałych kontekstach od `A2-L18`;
->   - **obciążenie:** `DO WERYFIKACJI` po pilotażu — liczba formuł (ok. 19 aktywnych, 9 gotowych formuł, 9 rozpoznawanych) jest wyższa niż w zatwierdzonej karcie założeń (ok. 15–20 aktywnych, ok. 8–10 rozpoznawanych), bo spis wymaga użycia *vosotros* i *usted* w gotowych formułach.
+>   - **obciążenie:** `DO WERYFIKACJI` po pilotażu — liczba formuł (ok. 19 aktywnych, 9 gotowych formuł, 10 rozpoznawanych) jest wyższa niż w zatwierdzonej karcie założeń (ok. 15–20 aktywnych, ok. 8–10 rozpoznawanych), bo spis wymaga użycia *vosotros* i *usted* w gotowych formułach.
 > - **Oznaczenia statusu:** `BORRADOR` — materiał niezatwierdzony; kontrola językowa, dydaktyczna i faktograficzna wymagana (patrz „Do weryfikacji" na końcu)
 
 ---
@@ -64,7 +64,7 @@ W dwóch krótkich rozmowach ta sama osoba mówi inaczej do znajomego i inaczej 
 
 | Hiszpański | Polski | Kiedy |
 |---|---|---|
-| **hola** | cześć, dzień dobry | w wielu sytuacjach; często w kontakcie ze znajomymi |
+| **hola** | dzień dobry, cześć | w wielu sytuacjach; często w kontakcie ze znajomymi |
 | **buenos días** | dzień dobry | rano |
 | **buenas tardes** | dzień dobry | po południu |
 | **buenas noches** | dobry wieczór; dobranoc | wieczorem; jako pożegnanie przed snem |
@@ -143,7 +143,7 @@ Przykład formy grzecznościowej do grupy (tylko rozpoznawanie):
 | **gracias** | dziękuję | podziękowanie |
 | **de nada** | nie ma za co | odpowiedź na *gracias* |
 | **por favor** | proszę | w prośbie |
-| **perdón** | przepraszam | gdy zwracasz uwagę lub przepraszasz |
+| **perdón** | przepraszam | gdy chcesz zwrócić na siebie uwagę lub przepraszasz |
 | **lo siento** | przykro mi; przepraszam | gdy jest ci przykro (rozpoznawanie) |
 
 Polskie „proszę" ma tu dwa odpowiedniki: *por favor* (gdy o coś prosisz) i *de nada* (gdy ktoś ci dziękuje).
@@ -163,7 +163,9 @@ W *gracias* litera **c** brzmi [θ] (wymowa ES-ES, zob. `A1-L01`, 2.4). Litera *
 
 #### 2.6. Nota pragmatyczna
 
-Powitanie dobierasz do sytuacji i relacji. Ze znajomym często używasz samego *hola* i *¿qué tal?*. W sytuacji formalnej (recepcja, urząd, rozmowa z osobą nieznajomą) częściej wybierasz *buenos días* lub *buenas tardes* i formy z *usted*. Zwyczaje różnią się zależnie od regionu, miejsca i osoby, więc nie traktuj tego jako sztywnej reguły. `DO WERYFIKACJI`
+Powitanie dobierasz do sytuacji i relacji. Ze znajomym często używasz samego *hola* i *¿qué tal?*. W sytuacji formalnej (recepcja, urząd, rozmowa z osobą nieznajomą) częściej wybierasz *buenos días* lub *buenas tardes* i formy z *usted*. Zwyczaje różnią się zależnie od regionu, miejsca i osoby, więc nie traktuj tego jako sztywnej reguły.
+
+> **KOMENTARZ REDAKCYJNY:** `DO WERYFIKACJI` — treść noty pragmatycznej (zależność powitań od sytuacji i relacji) przed publikacją sprawdzić zgodnie z `GUÍA` 15.4.
 
 ---
 
@@ -171,7 +173,7 @@ Powitanie dobierasz do sytuacji i relacji. Ze znajomym często używasz samego *
 
 | Hiszpański | Polski | Uwagi |
 |---|---|---|
-| hola | cześć, dzień dobry | czynne |
+| hola | dzień dobry, cześć | czynne |
 | buenos días | dzień dobry (rano) | czynne |
 | buenas tardes | dzień dobry (po południu) | czynne |
 | buenas noches | dobry wieczór; dobranoc | czynne |
@@ -202,6 +204,7 @@ Powitanie dobierasz do sytuacji i relacji. Ze znajomym często używasz samego *
 | hasta pronto | do zobaczenia wkrótce | rozpoznawane |
 | lo siento | przykro mi; przepraszam | rozpoznawane |
 | señor / señora | pan / pani (przed nazwiskiem) | rozpoznawane |
+| señores | panowie (zwrot do grupy) | rozpoznawane |
 | vosotros / vosotras | wy (grupa znajomych) | rozpoznawane |
 | ustedes | państwo; wy (zależnie od regionu) | rozpoznawane |
 | ¿Cómo están ustedes? | Jak państwo się miewają? | rozpoznawane |
@@ -272,7 +275,7 @@ a) Czujesz się bardzo dobrze. · b) Czujesz się tak sobie. · c) Czujesz się 
 
 **9A. Ćwiczenie słuchowe z powtarzaniem** *(materiał `A1-L02-A05` (TN) — nagranie niedostępne).* *Escucha y repite.* Powtarzaj zwroty z nagrania.
 
-**9B. Wariant artykulacyjny** *(bez nagrania; to nie jest ćwiczenie słuchania).* *Lee en voz alta.* Przeczytaj na głos zwroty z listy i oceń się według kryteriów w kluczu: 1. Buenos días. · 2. Buenas tardes. · 3. ¿Cómo estás? · 4. ¿Qué tal? · 5. Muy bien, gracias. · 6. Hasta luego.
+**9B. Wariant artykulacyjny** *(bez nagrania; to nie jest ćwiczenie słuchania).* *Lee en voz alta.* Przeczytaj na głos zwroty z listy i oceń się według kryteriów w kluczu (intonacja: zob. `A1-L01`, sekcja 2.7): 1. Buenos días. · 2. Buenas tardes. · 3. ¿Cómo estás? · 4. ¿Qué tal? · 5. Muy bien, gracias. · 6. Hasta luego.
 
 **Ćw. 10** *(kontrolowane).* *Elige.* Co mówisz?
 
@@ -315,7 +318,7 @@ Sprawdź swoją pracę z kluczem, potem odpowiedz na pytania:
 1. Czy w obu rozmowach przywitałem(-am) się, odpowiedziałem(-am) o samopoczuciu i pożegnałem(-am) się?
 2. Czy w rozmowie z Pablem użyłem(-am) form z *tú*, a w rozmowie z recepcjonistą form z *usted*, bez mieszania ich?
 3. Czy w sytuacji B poprosiłem(-am) o powtórzenie uprzejmie i formalnie?
-4. Czy pożegnanie pasuje do sytuacji?
+4. Czy w sytuacji A i B użyłem(-am) pożegnania z klucza?
 5. Które dwa błędy z kluczem poprawiłem(-am)? Zapisz poprawną wersję przynajmniej jednego z nich.
 
 **Granice samooceny:** ta lista pomaga sprawdzić, czy wykonałeś(-aś) wymagane elementy. Nie zastępuje oceny wymowy, intonacji i reakcji rozmówcy przez słuchacza ani nagrania kontrolnego.
@@ -345,7 +348,9 @@ a) Muy bien, gracias. ¿Y tú?
 b) Regular, gracias. ¿Y tú?
 c) Mal. ¿Y tú?
 
-**Wymagane elementy:** odpowiedź o samopoczuciu zgodna z sytuacją; pytanie zwrotne *¿Y tú?*. **Możliwe warianty:** *Bien, gracias. ¿Y tú?* w pozycji a); *Muy mal* nie jest objęte lekcją. **Nie uznawaj za błąd:** brak *gracias*; *¿Y usted?* jest błędem rejestru, jeśli rozmówcą jest znajomy (*tú*).
+**Wymagane elementy:** odpowiedź o samopoczuciu zgodna z sytuacją; pytanie zwrotne *¿Y tú?*. **Możliwe warianty:** *Bien, gracias. ¿Y tú?* w pozycji a); *Muy mal. ¿Y tú?* w pozycji c) (wariant rozszerzający). **Nie uznawaj za błąd:** brak *gracias*.
+
+**Błąd doboru formy, nie wariant:** *¿Y usted?* w Ćw. 8, bo rozmówcą jest znajomy, do którego mówisz na *tú*.
 
 **Ćw. 9** *(9A: brak odpowiedzi do sprawdzenia; 9B: samoocena).* **9A:** ćwiczenie powtarzania; nagranie kontrolne będzie dostępne dopiero po wydaniu audio. **9B** *(kryteria samooceny):* w *gracias* wymawiam *c* jako [θ] (model ES-ES); w *hasta* nie wymawiam *h*; w *¿Cómo estás?* i *¿Qué tal?* głos zwykle opada na końcu (↘, zob. `A1-L01`, 2.7); w *Muy bien, gracias.* głos również opada. `DO WERYFIKACJI` — intonacja *¿Qué tal?*.
 
@@ -362,12 +367,12 @@ Sytuacja B:
 - Recepcionista: Perdón. ¿Cómo está usted? · Ty: Muy bien, gracias. ¿Y usted?
 - Recepcionista: Bien, gracias. Hasta luego. · Ty: Hasta luego.
 
-**Wymagane elementy:** w obu sytuacjach powitanie, odpowiedź o samopoczuciu, pytanie zwrotne i pożegnanie; w sytuacji B prośba o powtórzenie. **Kryteria realizacji:** wszystkie części obu rozmów wykonane; w sytuacji A formy z *tú*, w sytuacji B formy z *usted*; adekwatna reakcja na niewyraźną wypowiedź recepcjonisty; co najmniej jeden błąd poprawiony po sprawdzeniu. **Możliwe warianty:** *Adiós* zamiast *Hasta luego*; *Más despacio, por favor* zamiast *¿Puede repetir…?*; *Bien* lub *Regular* zamiast *Muy bien*; *¿Cómo está usted?* zamiast *¿Y usted?*. **Nie uznawaj za błąd:** brak *gracias*. **Błąd rejestru, nie wariant:** forma z *tú* w sytuacji B.
+**Wymagane elementy:** w obu sytuacjach powitanie, odpowiedź o samopoczuciu, pytanie zwrotne i pożegnanie; w sytuacji B prośba o powtórzenie. **Kryteria realizacji:** wszystkie części obu rozmów wykonane; w sytuacji A formy z *tú*, w sytuacji B formy z *usted*; adekwatna reakcja na niewyraźną wypowiedź recepcjonisty; co najmniej jeden błąd poprawiony po sprawdzeniu. **Możliwe warianty:** *Adiós* zamiast *Hasta luego*; *Más despacio, por favor* zamiast *¿Puede repetir…?*; *Bien* lub *Regular* zamiast *Muy bien*; *¿Cómo está usted?* zamiast *¿Y usted?*. **Nie uznawaj za błąd:** brak *gracias*. **Błąd doboru formy, nie wariant:** forma z *tú* w sytuacji B, bo rozmowa jest formalna.
 
 **Komentarze do typowych błędów** (błąd → przyczyna → forma poprawna → krótkie ćwiczenie):
 
 1. **Mieszanie *tú* i *usted*** (*¿Cómo estás usted?*) → dwie formy w jednym zwrocie → *¿Cómo estás?* albo *¿Cómo está usted?* → powtórz pary: *¿Y tú? / ¿Y usted?*, *¿Cómo estás? / ¿Cómo está usted?*.
-2. **Zła zgoda w powitaniu** (*buenas días*, *buenos tardes*) → słowa zapamiętane osobno → *buenos días*, *buenas tardes*, *buenas noches* → powtórz całe zwroty trzy razy.
+2. **Pomylone końcówki w powitaniu** (*buenas días*, *buenos tardes*) → słowa zapamiętane osobno → *buenos días*, *buenas tardes*, *buenas noches* → powtórz całe zwroty trzy razy.
 3. **Mucho bien** → polskie „bardzo" ma dwa odpowiedniki → *muy bien* → powtórz: *muy bien, muy mal*.
 4. **Jedno powitanie na cały dzień** (*buenos días* wieczorem) → polskie *dzień dobry* kojarzy się z jedną formułą → *buenas tardes* lub *buenas noches* zależnie od sytuacji → wróć do ćw. 2.
 5. **Por favor zamiast de nada** (po *gracias*) → polskie „proszę" ma dwie funkcje → *de nada* → wróć do ćw. 3, pozycja 2.
